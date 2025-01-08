@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: http-clients
+
+http-client:
+  sample:
+    base-url: http://localhost:8099
